@@ -1,12 +1,15 @@
 menu:
-  Home: /
-  Archives: /archives
-
+  首页: /
+  实例: /实例
+  文档: /文档
+  FAQ: /FAQ
+  下载: /下载
+  路线图: /路线图
+  原理: /原理
+  许可协议: /许可协议
 widgets: 
-- search
-- category
-- tag
 - other
+- search
 
 twitter:
   username:
