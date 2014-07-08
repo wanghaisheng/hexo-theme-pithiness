@@ -20,6 +20,11 @@ layout/_partial/after_footer.ejs
 为     
 <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox.css">   
 <script type="text/javascript" src="fancybox/jquery.fancybox.js"></script>    
+layout/_partial/header.ejs    
+
+    <img class="circle" src="<%- config.root %>img/koala.jpg" alt="Anthem">
+为
+    <img class="circle" src="img/koala.jpg" alt="Anthem">
 ## 安装 Install
 
 Execute the following command and modify `theme` in `_config.yml` to `pithiness`.
